@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nitro dev",
+    "build": "nitro build"
+  },
+  "author": "Alexander Lichter <npm@lichter.io>",
+  "license": "MIT",
+  "dependencies": {
+    "nitropack": "^2.2.1"
+  },
+  "devDependencies": {
+    "wrangler": "^2.9.1"
+  }
+}
